@@ -68,7 +68,7 @@ export const homeData = [
 
 export const searchByCity = [
   {
-    title: "Fortaleza",
+    title: "Fortal City",
     img: fortalBrasao,
     icon: null,
     alt: null,
